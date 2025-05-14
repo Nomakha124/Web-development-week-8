@@ -150,9 +150,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Author
 
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+Nomakha Dlomo
+- vercel.com: Nomakha Dlomo(https://web-development-week-8.vercel.app/)
+- Github: Nomakha124(https://github.com/Nomakha124/Web-development-week-8.git)
 
 ## 🙏 Acknowledgments
 
